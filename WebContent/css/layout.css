@@ -30,8 +30,11 @@
 
 
 .footer{
-
-    height : 67px;
+  padding: 20px; 
+  text-align: center; 
+  background: #ddd; 
+  height: 150px;
+  height : 67px;
     
 }
 .footer .container{

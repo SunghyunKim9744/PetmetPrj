@@ -11,7 +11,7 @@
     <link href="css/reset.css" type="text/css" rel="stylesheet">
     <link href="css/admin/layout/index.css" type="text/css" rel="stylesheet">
     <link href="css/admin/content-layout/index.css" type="text/css" rel="stylesheet">
-    <link href="css/index.css" type="text/css" rel="stylesheet">
+    <link href="css/index2.css" type="text/css" rel="stylesheet">
     <script src="js/match/index.js"></script>
     <script src="https://kit.fontawesome.com/b280fc7aa7.js" crossorigin="anonymous"></script>
 </head>
@@ -104,10 +104,9 @@
     </div>
 
     <footer id="footer" class="footer">
-
-        <div class="container">
-            <h1>footer</h1>
-        </div>
+	
+    <h3>© 2020 - 2021 petmet.com All rights reserved</h3></br>
+    <h4>서비스 준비중...</h4>
 
     </footer>
 
